@@ -18,7 +18,7 @@ In this project we were given the task to create a calender application that dis
 
 ## How to use
 
-[https://jsen07.github.io/Calender-application/] -- Link to deployed site
+[https://jsen07.github.io/Calender-application/] -- LINK TO DEPLOYED SITE
 
 The application can be used by clicking on the link to the deployed site. The user will be redirected to the calender application where they are displayed the current day and time, and are presented with a table of boxes that display the working times, along with an input box and a save button. By clicking on an input box the user is able to type a to-do task which can saved by clicking on the save button. When the user saves a to do task it will be saved onto the localStorage where the application can re-use the saved data to re-load it back onto the page even when the user exits the application. 
 
