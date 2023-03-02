@@ -2,7 +2,7 @@
 
 ## Project Description
 
-In this project we were given the task to create a calender application that displays typical working hours and allows the user to save a to-do task in different times of the calender. The calender application should use the dayjs utility library in order to display the current day and time. Each time slot should also display a colour to represent the pasy, present and future time eg. (times that have already gone by will be presented with a grey box, whilst times that have not gone by yet will have a green colour, and the present time wiil have a red coloured box). The application is to be writtin using HTML, CSS and Javascript/JQuery.
+In this project we were given the task to create a calender application that displays typical working hours and allows the user to save a to-do task in different times of the calender. The calender application should use the dayjs utility library in order to display the current day and time. Each time slot should also display a colour to represent the pasy, present and future time eg. (times that have already gone by will be presented with a grey box, whilst times that have not gone by yet will have a green colour, and the current hour wiil have a red coloured box). The application is to be writtin using HTML, CSS and Javascript/JQuery.
 
 ## User Story
 ![image](https://user-images.githubusercontent.com/56829664/222550002-052f650a-a437-4da6-9bdf-0d57a09398a5.png)
