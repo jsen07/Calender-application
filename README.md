@@ -24,6 +24,6 @@ The application can be used by clicking on the link to the deployed site. The us
 
 
 ## Improvements
-
+In the future I would like to add more functionality such as an 'add hour' functionality where the user can add a time which the the application will display the time slots that lead up to that hour. Also, I would like to implement another functionality that lets the user to tick off the tasks that they have completed for that hour time slot which can be done through a button and changes the time slot to a particular colour. e.g(if the task has not been completed for that hour, the box will display a black colour, whilst completed tasks will display a white colour).
 ## Application
 ![image](https://user-images.githubusercontent.com/56829664/222553499-94f36905-b397-48d8-80b7-f4bd10de5540.png)
